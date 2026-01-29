@@ -1,7 +1,11 @@
 # My VPN (Virtual Private Network)
 
-## Today I Learned:
-- How to push to GitHub
-- Git basics
+# VPN Lab Project
 
-This is where I'll stor all my VPN study notes.
+Learning VPN configuration and management.
+
+## Lab Objectives:
+- Understand VPN concepts
+- Configure VPN servers
+- Test VPN connections
+- Document configurations
